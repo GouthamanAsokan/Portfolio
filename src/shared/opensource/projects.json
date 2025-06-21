@@ -1,0 +1,55 @@
+{
+  "data": [
+    {
+      "id": "G_GraphNeuralNetworks",
+      "name": "Graph-Neural-Networks",
+      "createdAt": "2023-01-01T00:00:00Z",
+      "url": "https://github.com/GouthamanAsokan/Graph-Neural-Networks-",
+      "description": "Understanding Knowledge Graphs and Graphical Neural Networks via Jupyter notebooks and implementations.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        },
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        }
+      ]
+    },    
+    {
+      "id": "G_Diffusion",
+      "name": "Diffusion",
+      "createdAt": "2023-05-15T00:00:00Z",
+      "url": "https://github.com/GouthamanAsokan/Diffusion",
+      "description": "A diffusion model implementation and experiments for image generation.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        }
+      ]
+    }
+    ,
+    {
+      "id": "G_QLearning",
+      "name": "Q-Learning",
+      "createdAt": "2023-06-10T00:00:00Z",
+      "url": "https://github.com/GouthamanAsokan/Q-Learning",
+      "description": "Reinforcement learning with Q‑Learning and LLM integration—experimenting with RL to improve LLM answer selection.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        }
+      ]
+    }
+  ]
+}
